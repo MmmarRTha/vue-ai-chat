@@ -43,7 +43,7 @@
         </svg>
       </div>
   
-      <h1 class="inline-block text-6xl sm:text-8xl font-bold bg-gradient-to-l from-amber-700 to-yellow-300 bg-clip-text text-transparent text-center my-6 sm:my-10">
+      <h1 class="inline-block text-5xl sm:text-8xl font-bold bg-gradient-to-l from-amber-700 to-yellow-300 bg-clip-text text-transparent text-center my-6 sm:my-10">
         AI EchoBot
       </h1>
     </div>
